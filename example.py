@@ -120,12 +120,17 @@ twitch_miner.analytics(host="0.0.0.0", port=10000, refresh=5, days_ago=7)   # St
 
 twitch_miner.mine(
     [
+        "s_chilla", # 7.777
         "valbina", # 10.000
         "fertilcs", # 15.000
         "1uke1337", # 30.000
         "mariab0b", # 30.000
+        "zonixxcs", # 50.000
+        "qbaxa", # 50.000
         "poisonika", # 55.555
+        "rmncs", # 70.000
         "malek_csgo", # 100.000
+        "kopsteep", # 150.000
         "byalli", # 160.000
         "inkmate0", # 250.000
     ],                                  # Array of streamers (order = priority)
