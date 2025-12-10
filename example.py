@@ -132,6 +132,7 @@ twitch_miner.mine(
         "kopsteep", # 150.000
         "byalli", # 160.000
         "inkmate0", # 250.000
+        "m4gaaaa" # 12000 + 779
     ],                                  # Array of streamers (order = priority)
     followers=False,                    # Automatic download the list of your followers
     followers_order=FollowersOrder.ASC  # Sort the followers list by follow date. ASC or DESC
