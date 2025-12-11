@@ -120,19 +120,25 @@ twitch_miner.analytics(host="0.0.0.0", port=10000, refresh=5, days_ago=7)   # St
 
 twitch_miner.mine(
     [
+        "icyt3ars", # 2.000
+        "akiyanoracs", # 3.000
         "valbina", # 10.000
         "fertilcs", # 15.000
+        "Youngsterrcs2", # 15.000
+        "forzorezor", # 20.000
         "1uke1337", # 30.000
         "mariab0b", # 30.000
         "zonixxcs", # 50.000
         "qbaxa", # 50.000
+        "b1st888", # 50.000
+        "anarkez", # 50.000
         "poisonika", # 55.555
         "rmncs", # 70.000
         "malek_csgo", # 100.000
         "kopsteep", # 150.000
         "byalli", # 160.000
         "inkmate0", # 250.000
-        "m4gaaaa" # 12000 + 779
+        "m4gaaaa", # 12000 + 779
     ],                                  # Array of streamers (order = priority)
     followers=False,                    # Automatic download the list of your followers
     followers_order=FollowersOrder.ASC  # Sort the followers list by follow date. ASC or DESC
