@@ -120,8 +120,8 @@ twitch_miner.analytics(host="0.0.0.0", port=10000, refresh=5, days_ago=7)   # St
 
 twitch_miner.mine(
     [
-        "icyt3ars", # 2.000
         "valbina", # 10.000
+        "fearfox111", # 10.000
         "fertilcs", # 15.000
         "Youngsterrcs2", # 15.000
         "forzorezor", # 20.000
@@ -133,10 +133,12 @@ twitch_miner.mine(
         "anarkez", # 50.000
         "poisonika", # 55.555
         "rmncs", # 70.000
+        "freakazoid", # 100.000
         "malek_csgo", # 100.000
         "kopsteep", # 150.000
         "byalli", # 160.000
         "inkmate0", # 250.000
+        "ct0m", # 444.444
         "m4gaaaa", # 12000 + 779
     ],                                  # Array of streamers (order = priority)
     followers=False,                    # Automatic download the list of your followers
