@@ -124,6 +124,7 @@ twitch_miner.mine(
         "fearfox111", # 10.000
         "fertilcs", # 15.000
         "Youngsterrcs2", # 15.000
+        "zeus", # 20.000
         "forzorezor", # 20.000
         "1uke1337", # 30.000
         "mariab0b", # 30.000
