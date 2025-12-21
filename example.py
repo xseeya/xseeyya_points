@@ -120,7 +120,7 @@ twitch_miner.analytics(host="0.0.0.0", port=10000, refresh=5, days_ago=7)   # St
 
 twitch_miner.mine(
     [
-        "fertilcs", # 15.000
+        "akkri_", # 7.500
         "worldedit", # 15.000
         "pattm0nster", # 20.000
         "zeus", # 20.000
@@ -128,6 +128,7 @@ twitch_miner.mine(
         "forzorezor", # 20.000
         "1uke1337", # 30.000
         "mariab0b", # 30.000
+        "mamaswiggi", # 30.000
         "IKASPEROVSKAYA", # 33.333
         "hades1337", # 50.000
         "Lollipop21k", # 50.000
