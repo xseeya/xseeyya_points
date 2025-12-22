@@ -125,6 +125,7 @@ twitch_miner.mine(
         "pattm0nster", # 20.000
         "zeus", # 20.000
         "MartiinezSa", # 25.000
+        "es4xtank", # 25.000
         "forzorezor", # 20.000
         "1uke1337", # 30.000
         "mariab0b", # 30.000
@@ -137,10 +138,12 @@ twitch_miner.mine(
         "b1st888", # 50.000
         "anarkez", # 50.000
         "poisonika", # 55.555
+        "mail09cs", # 50.000
         "rmncs", # 70.000
         "banks", # 100.000
         "freakazoid", # 100.000
         "malek_csgo", # 100.000
+        "prcs", # 100.000
         "snax", # 133700
         "kopsteep", # 150.000
         "byalli", # 160.000
