@@ -122,6 +122,7 @@ twitch_miner.mine(
     [
         "akkri_", # 7.500
         "kiryuhanastyuha", # 10.000
+        "emochkka", # 10.000
         "pattm0nster", # 20.000
         "zeus", # 20.000
         "MartiinezSa", # 25.000
