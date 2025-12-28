@@ -121,6 +121,7 @@ twitch_miner.analytics(host="0.0.0.0", port=10000, refresh=5, days_ago=7)   # St
 twitch_miner.mine(
     [
         "akkri_", # 7.500
+        "kiryuhanastyuha", # 10.000
         "pattm0nster", # 20.000
         "zeus", # 20.000
         "MartiinezSa", # 25.000
@@ -128,7 +129,6 @@ twitch_miner.mine(
         "forzorezor", # 20.000
         "1uke1337", # 30.000
         "mariab0b", # 30.000
-        "mamaswiggi", # 30.000
         "IKASPEROVSKAYA", # 33.333
         "hades1337", # 50.000
         "Lollipop21k", # 50.000
@@ -138,6 +138,7 @@ twitch_miner.mine(
         "anarkez", # 50.000
         "poisonika", # 55.555
         "mail09cs", # 50.000
+        "PCH3LK1N", # 50.000
         "rmncs", # 70.000
         "banks", # 100.000
         "freakazoid", # 100.000
@@ -147,6 +148,7 @@ twitch_miner.mine(
         "kopsteep", # 150.000
         "byalli", # 160.000
         "inkmate0", # 250.000
+       # "murzofix", # 250.000
         "ct0m", # 444.444
         "m4gaaaa", # 12000 + 779
     ],                                  # Array of streamers (order = priority)
