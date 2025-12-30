@@ -130,7 +130,7 @@ twitch_miner.mine(
         "MartiinezSa", # 25.000
         "es4xtank", # 25.000
         "forzorezor", # 20.000
-        "1uke1337", # 30.000
+        "1uke337", # 30.000
         "mariab0b", # 30.000
         "alkarenn", # 30.000
         "eevochka", # 30.000
