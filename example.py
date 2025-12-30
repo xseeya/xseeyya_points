@@ -120,45 +120,43 @@ twitch_miner.analytics(host="0.0.0.0", port=10000, refresh=5, days_ago=7)   # St
 
 twitch_miner.mine(
     [
-        "akkri_", # 7.500
-        "kradcs", # 5.000
-        "kiryuhanastyuha", # 10.000
-        "emochkka", # 10.000
-        "zanacs2", # 10.000
-        "pattm0nster", # 20.000
-        "zeus", # 20.000
-        "MartiinezSa", # 25.000
-        "es4xtank", # 25.000
-        "forzorezor", # 20.000
-        "1uke337", # 30.000
-        "mariab0b", # 30.000
-        "alkarenn", # 30.000
-        "eevochka", # 30.000
-        "angelkacs", # 30.000
-        "IKASPEROVSKAYA", # 33.333
-        "hades1337", # 50.000
-        "Lollipop21k", # 50.000
-        "zonixxcs", # 50.000
-        "qbaxa", # 50.000
-        "b1st888", # 50.000
-        "anarkez", # 50.000
-        "poisonika", # 55.555
-        "mail09cs", # 50.000
-        "PCH3LK1N", # 50.000
-        "janichka", # 50.000
-        "rmncs", # 70.000
-        "iceicell", # 77.777
-        "banks", # 100.000
-        "freakazoid", # 100.000
-        "malek_csgo", # 100.000
-        "prcs", # 100.000
-        "snax", # 133700
-        "kopsteep", # 150.000
-        "byalli", # 160.000
-        "inkmate0", # 250.000
-       # "murzofix", # 250.000
-        "ct0m", # 444.444
-        "m4gaaaa", # 779.000
+        "poisonika", 
+        "pattm0nster",
+        "akkri_",
+        "IKASPEROVSKAYA",
+        "zeus",
+        "freakazoid",
+        "emochkka",
+        "anarkez",
+        "rmncs",
+        "es4xtank", 
+        "zonixxcs",
+        "Lollipop21k",
+        "malek_csgo",
+        "hades1337",
+        "b1st888",
+        "MartiinezSa",
+        "zanacs2",
+        "kiryuhanastyuha",
+        "byalli",
+        "kradcs",
+        "eevochka",
+        "banks",
+        "prcs",
+        "mariab0b",
+        "qbaxa",
+        "alkarenn",
+        "mail09cs",
+        "snax",
+        "janichka",
+        "inkmate0",
+        "m4gaaaa",
+        "PCH3LK1N",
+        "iceicell",
+        "angelkacs",
+        "1uke337",
+        "murzofix",
+        "ct0m",
     ],                                  # Array of streamers (order = priority)
     followers=False,                    # Automatic download the list of your followers
     followers_order=FollowersOrder.ASC  # Sort the followers list by follow date. ASC or DESC
