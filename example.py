@@ -122,7 +122,6 @@ twitch_miner.mine(
     [
         "poisonika", 
         "pattm0nster",
-        "akkri_",
         "IKASPEROVSKAYA",
         "zeus",
         "freakazoid",
