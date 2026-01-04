@@ -120,7 +120,6 @@ twitch_miner.analytics(host="0.0.0.0", port=10000, refresh=5, days_ago=7)   # St
 
 twitch_miner.mine(
     [
-        "IKASPEROVSKAYA",
         "poisonika",
         "pattm0nster",
         "zeus",
