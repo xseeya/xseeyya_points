@@ -155,7 +155,6 @@ twitch_miner.mine(
         "iceicell",
         "janichka",
         "inkmate0",
-        "m4gaaaa",
         "angelkacs",
         "yariksupra",
         "jmqa",
