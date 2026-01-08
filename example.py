@@ -171,6 +171,7 @@ twitch_miner.mine(
         "fessorcs",
         "almazer5",
         "ekatze007",
+        "olofmeister",
         "ins1de1337",
         "ct0m",
     ],
