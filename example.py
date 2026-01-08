@@ -147,7 +147,6 @@ twitch_miner.mine(
         "banks",
         "byalli",
         "qbaxa",
-        "eevochka",
         "PCH3LK1N",
         "mariab0b",
         "mail09cs",
