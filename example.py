@@ -173,7 +173,6 @@ twitch_miner.mine(
         "almazer5",
         "ekatze007",
         "ins1de1337",
-        "murzofix",
         "ct0m",
     ],
     followers=False,
