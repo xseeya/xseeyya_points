@@ -168,6 +168,7 @@ twitch_miner.mine(
         "sashacheer",
         "shrcs",
         "kingmezii",
+        "breel",
         "fessorcs",
         "almazer5",
         "ekatze007",
